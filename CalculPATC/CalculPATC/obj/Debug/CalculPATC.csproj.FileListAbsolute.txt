@@ -1,0 +1,9 @@
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\CalculPATC\CalculPATC\bin\Debug\CalculPATC.exe.config
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\CalculPATC\CalculPATC\bin\Debug\CalculPATC.exe
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\CalculPATC\CalculPATC\bin\Debug\CalculPATC.pdb
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\CalculPATC\CalculPATC\obj\Debug\CalculPATC.csprojResolveAssemblyReference.cache
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\CalculPATC\CalculPATC\obj\Debug\CalculPATC.Form1.resources
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\CalculPATC\CalculPATC\obj\Debug\CalculPATC.Properties.Resources.resources
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\CalculPATC\CalculPATC\obj\Debug\CalculPATC.csproj.GenerateResource.Cache
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\CalculPATC\CalculPATC\obj\Debug\CalculPATC.exe
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\CalculPATC\CalculPATC\obj\Debug\CalculPATC.pdb
