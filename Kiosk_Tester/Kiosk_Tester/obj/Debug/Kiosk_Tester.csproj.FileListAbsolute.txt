@@ -1,0 +1,28 @@
+\\mydocs\home$\p\pcollins2\visual studio 2017\Projects\Kiosk_Tester\Kiosk_Tester\bin\Debug\Kiosk_Tester.exe.config
+\\mydocs\home$\p\pcollins2\visual studio 2017\Projects\Kiosk_Tester\Kiosk_Tester\bin\Debug\Kiosk_Tester.exe
+\\mydocs\home$\p\pcollins2\visual studio 2017\Projects\Kiosk_Tester\Kiosk_Tester\bin\Debug\Kiosk_Tester.pdb
+\\mydocs\home$\p\pcollins2\visual studio 2017\Projects\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.csprojResolveAssemblyReference.cache
+\\mydocs\home$\p\pcollins2\visual studio 2017\Projects\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.Form1.resources
+\\mydocs\home$\p\pcollins2\visual studio 2017\Projects\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.Properties.Resources.resources
+\\mydocs\home$\p\pcollins2\visual studio 2017\Projects\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.csproj.GenerateResource.Cache
+\\mydocs\home$\p\pcollins2\visual studio 2017\Projects\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.exe
+\\mydocs\home$\p\pcollins2\visual studio 2017\Projects\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.pdb
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\bin\Debug\Kiosk_Tester.exe.config
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\bin\Debug\Kiosk_Tester.exe
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\bin\Debug\Kiosk_Tester.pdb
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.csprojResolveAssemblyReference.cache
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.Form1.resources
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.Properties.Resources.resources
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.csproj.GenerateResource.Cache
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.exe
+C:\Users\pcollins2.USI\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.pdb
+C:\Users\collinp\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\bin\Debug\Kiosk_Tester.exe.config
+C:\Users\collinp\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\bin\Debug\Kiosk_Tester.exe
+C:\Users\collinp\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\bin\Debug\Kiosk_Tester.pdb
+C:\Users\collinp\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.csprojAssemblyReference.cache
+C:\Users\collinp\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.Form1.resources
+C:\Users\collinp\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.Properties.Resources.resources
+C:\Users\collinp\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.csproj.GenerateResource.cache
+C:\Users\collinp\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.csproj.CoreCompileInputs.cache
+C:\Users\collinp\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.exe
+C:\Users\collinp\OneDrive - University of Southern Indiana\CS358\KioskK_Tester\Kiosk_Tester\Kiosk_Tester\obj\Debug\Kiosk_Tester.pdb
