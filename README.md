@@ -1,3 +1,2 @@
 # USI-Csharp-Projects
-School Projects
-Each project is a class project from USI.
+School Projects - each project is a class project from USI.
